@@ -11,7 +11,7 @@ void main() {
   }
 
   // switch
-  switch(num % 3) {
+  switch (num % 3) {
     case 0:
       print('remainder: 0');
       break;
